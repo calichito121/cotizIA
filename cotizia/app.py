@@ -35,10 +35,10 @@ st.title("💬 CotizIA")
 st.caption("Consultas y presupuestos 24/7")
 
 ACCESOS = {
-    "🧾 Cotizar": "Quiero cotizar",
-    "💲 Precios": "¿Cuáles son los precios?",
-    "🕒 Horario": "¿A qué hora atienden?",
-    "🧑 Asesor": "Quiero hablar con un asesor",
+    " Cotizar": "Quiero cotizar",
+    " Precios": "¿Cuáles son los precios?",
+    " Horario": "¿A qué hora atienden?",
+    " Asesor": "Quiero hablar con un asesor",
 }
 entrada = None
 for col, (etiqueta, texto) in zip(st.columns(len(ACCESOS)), ACCESOS.items()):
