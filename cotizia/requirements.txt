@@ -1,0 +1,2 @@
+streamlit>=1.40
+google-cloud-firestore>=2.16

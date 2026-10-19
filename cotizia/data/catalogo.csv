@@ -1,0 +1,4 @@
+sku,nombre,precio_unitario,alias
+BAS,Producto Básico,50.00,basico|básico|basica
+EST,Producto Estándar,80.00,estandar|estándar
+PRE,Producto Premium,120.00,premium

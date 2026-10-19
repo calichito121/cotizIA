@@ -1,0 +1,21 @@
+{
+  "nombre": "Negocio de ejemplo (reemplazar con el de la clienta)",
+  "igv": 0.18,
+  "costo_envio": 10.00,
+  "vigencia_dias": 7,
+  "umbral_derivacion": 5000,
+  "cantidad_maxima": 5000,
+  "descuentos": [
+    {"desde": 10, "pct": 0.05},
+    {"desde": 50, "pct": 0.10},
+    {"desde": 100, "pct": 0.15}
+  ],
+  "whatsapp": "51999999999",
+  "correo": "contacto@ejemplo.com",
+  "faq": {
+    "horario": "Atendemos de lunes a sábado, de 9:00 a 18:00 (horario de ejemplo). Este asistente responde las 24 horas.",
+    "ubicacion": "Estamos en Lima, Perú (dirección de ejemplo). Escribe *asesor* si necesitas indicaciones exactas.",
+    "medios_pago": "Aceptamos Yape, Plin y transferencia bancaria (ejemplo).",
+    "entrega": "Hacemos envíos a domicilio con un costo fijo de {costo_envio} (ejemplo). También puedes recoger tu pedido."
+  }
+}
